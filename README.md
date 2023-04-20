@@ -1,7 +1,7 @@
 ## Sprint M3
 
 ## Description
-This project is for the Final Sprint M2. It comprises a SQL database with tables to simulate queries in an online business that sells electronic products.
+This project is for the Final Sprint M3. It comprises a SQL database with tables to simulate queries in an online business that sells electronic products.
 
 ## Technology Used
 MySQL Workbench
